@@ -1,0 +1,40 @@
+class AppWord{
+  static const String welcome1="Check Symptoms";
+  static const String welcome="complete a short assesment";
+  static const String next="Next";
+  static const String Review="Review Results";
+  static const String View="View Possible Causes, Risk";
+  static const String Seek="Seek Advice";
+  static const String Get="Get Advice And Decide";
+  static const String Signin="Sign In";
+  static const String Phone="Phone Number";
+  static const String password="Password";
+  static const String Epassword="Enter Password";
+  static const String Fpassword="Forget Password?";
+  static const String Login="Login";
+  static const String account="Don't have an account?  ";
+  static const String SignUp="Sign up";
+  static const String Done="Done";
+  static const String firstName="First Name";
+  static const String lasttName="Last Name";
+  static const String efirstName="Enter First Name";
+  static const String elasttName="Enter Last Name";
+  static const String userName="User Name";
+  static const String email="E-mail";
+  static const String emailExample="Yourname@Example.Com";
+  static const String euserName="Enter User Name";
+  static const String ConfirmPassword ="Confirm  Password ";
+  static const String Congratulations ="Congratulations";
+  static const String successfully ="Your account has been verified successfully";
+  static const String Continue ="Continue";
+  static const String Verification ="Verification Code";
+  static const String Resend ="Resend in 30 sec";
+  static const String Submit ="Submit";
+  static const String digit ="Enter the four digit code sent to your mobile number.";
+  static const String Enter4 ="Enter 4 digits code";
+  static const String Enter ="Enter your mobile number for verification process. We will send a four digit code to your mobile number.";
+  static const String OTP ="OTP has been sent to your mobile number.Please verify.";
+  static const String Reset ="Reset Password";
+  static const String Set ="Set the new password for your account so you can login and access all our features. ";
+}
+
